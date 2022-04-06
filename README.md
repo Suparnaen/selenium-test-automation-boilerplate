@@ -1,3 +1,5 @@
+# CREDIT : https://github.com/Tahanima/selenium-test-automation-boilerplate
+
 # Selenium Test Automation Boilerplate
 
 Ready-to-use UI Test Automation Architecture using Java and Selenium WebDriver.
